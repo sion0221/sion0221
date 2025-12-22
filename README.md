@@ -1,7 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FrontEnd+Junior+Developer)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=37B617&width=700&lines=FrontEnd+Junior+Developer)](https://git.io/typing-svg)>
 
 
 <!--내용 부분-->

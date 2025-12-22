@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect)
+![header](https://capsule-render.vercel.app/api?type=Rect&text=Front%End%Junior%Developer)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>

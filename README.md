@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&text=Frontend%Junior)
-
+<h1 align="center">
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!😊)
+</h1>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">

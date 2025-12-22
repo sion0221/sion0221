@@ -1,6 +1,13 @@
 <!--타이틀 부분-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=37B617&width=700&lines=FrontEnd+Junior+Developer)](https://git.io/typing-svg)>
 
+<div align='center'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark">
+</div>
+
+<div align='right'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=zaman17&color=dark">
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>

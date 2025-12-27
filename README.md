@@ -1,6 +1,6 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&height=300&text=Front-end&nbsp;Junior😊" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&height=300&text=Welcome😊" />
 </div>
 
 <!-- 기술 부분 -->
